@@ -27,4 +27,3 @@ temp_sensor.get_reading()
 print("\n----------------------------")
 
 
-my_sensor = Sensor()
