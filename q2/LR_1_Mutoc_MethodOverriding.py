@@ -1,5 +1,5 @@
 
-class Animal:
+class Zoo_Animals:
     def __init__(self, name):
         self.name = name
 
@@ -34,7 +34,7 @@ class Monkey(Animal):
         print(self.name + " chatters.")
 
 
-animals = [
+zoo_animals = [
     Lion("Blainette"),
     Elephant("Rheign"),
     Monkey("Jayone")
